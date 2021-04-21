@@ -42,8 +42,8 @@ If you not precise the year, you'll gate the holiday of the current year !
 
 ## Ressouces
 
-[Nager.date](https://date.nager.at/) : Returns the public holidays from a given year and country.
-[Country-list](https://www.npmjs.com/package/country-list): To convert the country name onto a country code.
-[Axios](https://www.npmjs.com/package/axios) : To perform HTTP requests.
-[Chalk](https://www.npmjs.com/package/chalk) : To add some colors in the terminal.
-[ora](https://www.npmjs.com/package/ora) : To add some awesome loading in the terminal
+* [Nager.date](https://date.nager.at/) : Returns the public holidays from a given year and country.
+* [Country-list](https://www.npmjs.com/package/country-list): To convert the country name onto a country code.
+* [Axios](https://www.npmjs.com/package/axios) : To perform HTTP requests.
+* [Chalk](https://www.npmjs.com/package/chalk) : To add some colors in the terminal.
+* [ora](https://www.npmjs.com/package/ora) : To add some awesome loading in the terminal
